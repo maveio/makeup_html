@@ -126,7 +126,13 @@ defmodule Makeup.Lexers.HTMLLexer.HTMLAttributes do
     "usemap",
     "value",
     "width",
-    "wrap"
+    "wrap",
+    "aspect-ratio",
+    "float",
+    "pop",
+    "chat",
+    "opacity",
+    "jwt"
   ]
 
   @event_handler_attributes [
