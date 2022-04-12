@@ -115,7 +115,8 @@ defmodule Makeup.Lexers.HTMLLexer.HTMLElements do
     "ul",
     "var",
     "video",
-    "wbr"
+    "wbr",
+    "Mave"
   ]
 
   def get_elements do
