@@ -132,7 +132,8 @@ defmodule Makeup.Lexers.HTMLLexer.HTMLAttributes do
     "pop",
     "chat",
     "opacity",
-    "jwt"
+    "jwt",
+    "subtitles"
   ]
 
   @event_handler_attributes [
